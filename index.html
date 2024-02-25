@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Website</title>
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@4.1.0/fonts/remixicon.css" rel="stylesheet" />
+  <link rel="stylesheet" href="./DBMS.css">
+  <style>
+
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+    <h1>Welcome to the Quiz!</h1>
+    <button onclick="resetConfirmation()" id="resetButton" class="reset-btn"><i class="ri-refresh-line"></i></button>
+    <div id="quiz">
+      <div class="question" id="question"></div>
+      <div class="options" id="options"></div>
+      <div class="btn-container">
+        <button id="nextButton" onclick="showNextQuestion()">Next Question</button>
+        <!-- <button onclick="resetQuiz()" id="resetButton" disabled>Reset</button> -->
+      </div>
+      <div id="result" style="display: none; text-align: center;"></div>
+    </div>
+  </div>
+
+</body>
+<script src="./DBMS.js"></script>
+
+</html>

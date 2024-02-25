@@ -1,0 +1,302 @@
+[
+  {
+      "question": "The files stored on a secondary stage device are composed of a hierarchy of data. What does a record in a file contain?",
+      "options": [
+          "Characters",
+          "Data field",
+          "Bits",
+          "Schema"
+      ],
+      "answer": "Data field"
+  },
+  {
+      "question": "A report generator is used to____________",
+      "options": [
+          "print files on paper",
+          "update files",
+          "data entry",
+          "All of the above"
+      ],
+      "answer": "print files on paper"
+  },
+  {
+      "question": "Which command is used to remove an index from the database in SQL?",
+      "options": [
+          "REMOVE INDEX",
+          "DROP INDEX",
+          "DELETE INDEX",
+          "ROLL BACK INDEX"
+      ],
+      "answer": "DROP INDEX"
+  },
+  {
+      "question": "What is the name given to the database management system which is able to handle full text data, image data, audio and video?",
+      "options": [
+          "Graphics media",
+          "Multimedia",
+          "Full media",
+          "Hypertext"
+      ],
+      "answer": "Multimedia"
+  },
+  {
+      "question": "The relational model uses some unfamiliar terminology. A tuple is equivalent to a____________-",
+      "options": [
+          "file",
+          "field",
+          "record",
+          "data base"
+      ],
+      "answer": "record"
+  },
+  {
+      "question": "An-owner-member set in the CODASYL specifications may have__________",
+      "options": [
+          "only one member but many member occurrence",
+          "only one owner but many owner occurrences",
+          "more than one member but only one occurrence per member",
+          "All of the above"
+      ],
+      "answer": "only one owner but many owner occurrences"
+  },
+  {
+      "question": "Which of the following is not a logical data-base structure?",
+      "options": [
+          "relational",
+          "network",
+          "tree",
+          "chain"
+      ],
+      "answer": "chain"
+  },
+  {
+      "question": "If the record management system allows you to edit values before they are recorded on disk, you can________",
+      "options": [
+          "change the name of a field",
+          "correct spelling changes before they are recorded",
+          "change the width of a field",
+          "All of the above"
+      ],
+      "answer": "correct spelling changes before they are recorded"
+  },
+  {
+      "question": "A top-to-bottom relationship among the items in a database is established by a__________",
+      "options": [
+          "Network schema",
+          "Relational schema",
+          "Hierarchical schema",
+          "All of the above"
+      ],
+      "answer": "Hierarchical schema"
+  },
+  {
+      "question": "A database management system___________",
+      "options": [
+          "is a collection of programs for managing data in a single file",
+          "can do more than a record management system",
+          "allows simultaneous access to multiple files",
+          "Both 2 & 3"
+      ],
+      "answer": "Both 2 & 3"
+  },
+  {
+      "question": "Which of the following is a database administrator’s function?",
+      "options": [
+          "performance monitoring",
+          "backing up the database",
+          "database design",
+          "All of the above"
+      ],
+      "answer": "All of the above"
+  },
+  {
+      "question": "In SQL, which command(s) is(are) used to enable/disable a database trigger?",
+      "options": [
+          "CHANGE USER",
+          "ALTER TRIGGER",
+          "MODIFY USER",
+          "None of the above"
+      ],
+      "answer": "ALTER TRIGGER"
+  },
+  {
+      "question": "Which of the following hardware components is the most important to the operation of a database management system?",
+      "options": [
+          "high speed, large-capacity disk",
+          "printer",
+          "high-resolution video display",
+          "plotter"
+      ],
+      "answer": "high speed, large-capacity disk"
+  },
+  {
+      "question": "Which of the following is not a relational database?",
+      "options": [
+          "4th Dimension",
+          "FoxPro",
+          "dBASE IV",
+          "Reflex"
+      ],
+      "answer": "Reflex"
+  },
+  {
+      "question": "The data dictionary tells the DBMS_________",
+      "options": [
+          "what these files contain",
+          "what attribute are possessed by the data",
+          "what files are in the database",
+          "All of the above"
+      ],
+      "answer": "All of the above"
+  },
+  {
+      "question": "The PROJECT command will create new table that has___________",
+      "options": [
+          "more rows than the original table",
+          "all the fields of master table",
+          "more fields than the original table",
+          "None of the above"
+      ],
+      "answer": "None of the above"
+  },
+  {
+      "question": "Primitive operations common to all record management systems include____________",
+      "options": [
+          "Print",
+          "Look-up",
+          "Sort",
+          "All of the above"
+      ],
+      "answer": "Look-up"
+  },
+  {
+      "question": "Which two files are used during operation of the DBMS?",
+      "options": [
+          "data manipulation language and query language",
+          "data dictionary and transaction log",
+          "query language and utilities",
+          "data dictionary and query language"
+      ],
+      "answer": "data dictionary and transaction log"
+  },
+  {
+      "question": "In a _____ a parent record type can be linked to one or more “child” record types, but a child record type can have only one parent.",
+      "options": [
+          "Distributed database",
+          "Relational database",
+          "Network database",
+          "Hierarchical database"
+      ],
+      "answer": "Hierarchical database"
+  },
+  {
+      "question": "Sort/report generators_________",
+      "options": [
+          "require more disk space than index/report generators",
+          "do not need to sort before generating a report",
+          "are faster than index/report generators",
+          "None of the above"
+      ],
+      "answer": "require more disk space than index/report generators"
+  },
+  {
+      "question": "Each of data files has a _____ that describe the way the data is stored in the file.",
+      "options": [
+          "Records",
+          "File structure",
+          "Fields",
+          "Database"
+      ],
+      "answer": "File structure"
+  },
+  {
+      "question": "To have a file hold a list, it is necessary to________",
+      "options": [
+          "identify the records in the list",
+          "decide which fields will be used as sort or index keys",
+          "identify the name, width and type of the fields of each record",
+          "All of the above"
+      ],
+      "answer": "All of the above"
+  },
+  {
+      "question": "Periodically adding, changing and deleting file records is called file__________",
+      "options": [
+          "upgrading",
+          "Updating",
+          "renewing",
+          "restructuring"
+      ],
+      "answer": "Updating"
+  },
+  {
+      "question": "After you _____ a record, many data management the environments require you to issue a command to save the changes you made.",
+      "options": [
+          "Update",
+          "Delete",
+          "Sort key",
+          "Index"
+      ],
+      "answer": "Update"
+  },
+  {
+      "question": "Sophisticated report generators can________",
+      "options": [
+          "perform arithmetic operations",
+          "print row-oriented reports",
+          "selectively retrieve and print portions of a list",
+          "All of the above"
+      ],
+      "answer": "All of the above"
+  },
+  {
+      "question": "In SQL, which command is used to make permanent changes made by statements issue since the beginning of a transaction?",
+      "options": [
+          "COMMIT",
+          "PACK",
+          "SAVE",
+          "ZIP"
+      ],
+      "answer": "COMMIT"
+  },
+  {
+      "question": "What is the language used by most of the DBMSs for helping their users to access data?",
+      "options": [
+          "4GL",
+          "Query language",
+          "High level language",
+          "SQL"
+      ],
+      "answer": "Query language"
+  },
+  {
+      "question": "A network schema__________",
+      "options": [
+          "stores data in tables",
+          "permits many-to-many relation¬ships",
+          "restricts the structure to a one-to-many relationship",
+          "None of the above"
+      ],
+      "answer": "permits many-to-many relation¬ships"
+  },
+  {
+      "question": "When using a database management system, the first thing that you must do is to____________",
+      "options": [
+          "activate file editor",
+          "create a database file",
+          "load the Software into your microcomputer",
+          "keep a floppy disk in readiness"
+      ],
+      "answer": "load the software into your micro¬computer"
+  },
+  {
+      "question": "Data item characteristics that are important in data management include____________",
+      "options": [
+          "language",
+          "spelling",
+          "punctuation",
+          "Width"
+      ],
+      "answer": "Width"
+  }
+]
